@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MAP AND OPERATIONS FILE FROM PROJECT'S ROOT
+*map
+*operations
