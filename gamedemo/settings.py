@@ -41,7 +41,9 @@ INSTALLED_APPS = [
     'graph',
     'game',
     'player',
-    'graphene_django'
+    'graphene_django',
+    'rest_framework',
+    'rest_framework.authtoken',
 ]
 
 MIDDLEWARE = [
